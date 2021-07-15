@@ -1,5 +1,5 @@
 # Valet Parking
-My Task for my EpikIndifi interview process.
+A full stack web-app for managing valet parking services.
 
 ## Steps to run
 - npm install
